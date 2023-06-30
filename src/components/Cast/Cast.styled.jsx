@@ -4,7 +4,7 @@ export const CastCardWrap = styled.ul`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  // align-items: center;
+  // align-items: start;
 
   padding: 0;
   margin: 0;
@@ -31,6 +31,7 @@ export const CastImg = styled.img`
 `;
 
 export const NameActor = styled.p`
+  margin-top: auto;
   margin-bottom: 5px;
   text-align: center;
   font-weight: 600;

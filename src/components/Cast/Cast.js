@@ -58,6 +58,7 @@ const Cast = () => {
                     }
                     alt={`${name} portrait`}
                     width="100px"
+                    height="150px"
                     loading="lazy"
                   />
                 </Content>
